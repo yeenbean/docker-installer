@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# tbd: copy/paste comment for console/ssh.
+# bash <(https://raw.githubusercontent.com/yeenbean/docker-installer/main/install.sh)
 
 
 init() {
