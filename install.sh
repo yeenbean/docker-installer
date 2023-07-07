@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# bash <(https://raw.githubusercontent.com/yeenbean/docker-installer/main/install.sh)
+# bash <(curl -s https://raw.githubusercontent.com/yeenbean/docker-installer/main/install.sh)
 
 
 init() {
